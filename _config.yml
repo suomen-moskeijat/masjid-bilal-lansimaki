@@ -1,0 +1,10 @@
+# Masjid Bilal Länsimäki – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Bilal Länsimäki"
+description: "Masjid Bilal Länsimäki, Kuulakuja 1, Vantaa. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-bilal-lansimaki     # tiedosto _moskeijat/masjid-bilal-lansimaki.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-bilal-lansimaki/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-bilal-lansimaki"
