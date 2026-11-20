@@ -8,3 +8,4 @@ moskeija: masjid-bilal-lansimaki     # tiedosto _moskeijat/masjid-bilal-lansimak
 # Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
 url: "https://suomen-moskeijat.github.io"
 baseurl: "/masjid-bilal-lansimaki"
+kielet: [fi]   # sivuston kielivalikko (hallintapaneeli → Asetukset)
